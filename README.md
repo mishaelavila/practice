@@ -1,1 +1,1 @@
-# stock-analysis
+this was practice before
